@@ -4,7 +4,7 @@
 This project is an **AI-powered chatbot** designed to assist **school dropouts in India** by providing **Tamil educational content**, **career guidance**, and **government schemes** based on their reasons for dropping out.  
 
 💡 The chatbot is capable of:  
-- Understanding **user queries in Indian regional languages** (Tamil, Hindi, Telugu, Kannada, Malayalam, Bengali, etc.)  
+- Understanding **user queries in Indian regional languages** especially trained for Tamil students  
 - Providing **tailored suggestions** (Scholarships, NIOS, Distance Education, Skill Training, etc.)  
 - Offering **educational content** based on **manually created datasets**  
 - **Multilingual support** for Indian regional languages  
