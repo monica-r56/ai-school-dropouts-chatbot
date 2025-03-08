@@ -33,4 +33,5 @@ This chatbot **does not rely on heavy AI models** like GPT but instead uses:
 
 3️⃣ **Interactive Learning**  
    - Users can **ask questions** from their preferred subjects,lesson for their grade syllabus
-   - The chatbot fetches **relevant educational content/answers and provides in Tamil**  
+   - All the school education books of every subjects are **uploaded as PDF/local database to fetch the education content**
+   - The chatbot fetches **relevant educational content/answers and provides in Tamil**
