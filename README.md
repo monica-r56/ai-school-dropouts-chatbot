@@ -31,9 +31,13 @@ This chatbot **does not rely on heavy AI models** like GPT but instead uses:
    - Suggests **government schemes, scholarships, and learning opportunities**  
    - Provides **links to resources** (Diksha, Swayam, NIOS, etc.)
    - _Upload School_dropout.csv in Schemes.ipynb_
+![image](https://github.com/user-attachments/assets/29ab36f7-b6bc-489a-bfd8-7f9ae2bf4e41)
 
 3️⃣ **Interactive Learning**  
    - Users can **ask questions** from their preferred subjects,lesson for their grade syllabus
    - All the school education books of every subjects are **uploaded as PDF/local database to fetch the education content**
    - The chatbot fetches **relevant educational content/answers and provides in Tamil**
    - _Upload School text book(choosen grade/subject) PDF available from the government's education portal in TamilEducation.ipynb_
+![image](https://github.com/user-attachments/assets/dd93ff02-d83c-4df8-a07f-1a5ec2eb0f90)
+
+
